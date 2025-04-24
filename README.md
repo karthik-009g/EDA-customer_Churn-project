@@ -5,11 +5,11 @@ This project focuses on the essential data science tasks of data cleaning and ex
 
 Dataset
 
-The dataset used is [insert dataset name, e.g., Titanic, IPL dataset, Sales data, etc.].
+The dataset used is [Telecom churn].
 
-Source: [Insert source link, e.g., Kaggle or a public dataset]
+Source: [https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets/data]
 
-Size: [e.g., 891 rows, 12 columns]
+Size: [e.g., 667 rows, 20 columns]
 
 Format: CSV
 
