@@ -75,10 +75,6 @@ Bar plots, histograms, box plots, etc.
 
 5. Insights and Conclusions
 
-
-
 Sample Insights
-
-[e.g., "Survival rate was higher for females than males."]
 
 [e.g., "Sales peaked in December with a 30% increase over the yearly average."]
