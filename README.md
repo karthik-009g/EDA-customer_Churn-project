@@ -70,6 +70,7 @@ Univariate and bivariate analysis.
 Correlation heatmaps.
 
 Bar plots, histograms, box plots, etc.
+currently in this step for now 
 
 
 
