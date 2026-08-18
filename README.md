@@ -5,7 +5,7 @@ This project focuses on the essential data science tasks of data cleaning and ex
    
 Dataset
  
-The dataset used is [Telecom churn].
+The dataset used is [Telecom churn]. 
  
 Source: [https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets/data]
 
